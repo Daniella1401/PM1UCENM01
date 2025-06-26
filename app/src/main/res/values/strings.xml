@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PM1UCENM01</string>
+    <string name="btnagregar">Agregar</string>
+    <string name="telefono">Telefono</string>
+    <string name="btnadd">Ingresar personas</string>
+    <string name="btnspinner">Seleccion de personas</string>
+    <string name="btnlist">Lista Personas</string>
+</resources>
